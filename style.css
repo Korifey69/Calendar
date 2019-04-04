@@ -1,0 +1,18 @@
+#calendar .table td, th {
+	text-align: center;  
+	cursor: pointer; 
+}
+
+#calendar .table td:hover {
+	background-color: #000;
+	color: #fff;
+}
+
+.show-calendar {
+	cursor: pointer;
+}
+
+#calendar_light {
+	display: none;
+}
+
