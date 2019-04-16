@@ -77,18 +77,18 @@ function getNumbersArr(from, to) {
 
 function getMonths() {
 	return [
-		{number: 1, name: "Январь"}, 
-		{number: 2, name: "Февраль"}, 
-		{number: 3, name: "Март"}, 
-		{number: 4, name: "Апрель"}, 
-		{number: 5, name: "Май"}, 
-		{number: 6, name: "Июнь"}, 
-		{number: 7, name: "Июль"}, 
-		{number: 8, name: "Авгус"}, 
-		{number: 9, name: "Сентябырь"}, 
-		{number: 10, name: "Октябырь"}, 
-		{number: 11, name: "Ноябырь"}, 
-		{number: 12, name: "Декабырь"}
+		{number: 1, name: "January"}, 
+		{number: 2, name: "February"}, 
+		{number: 3, name: "March"}, 
+		{number: 4, name: "April"}, 
+		{number: 5, name: "May"}, 
+		{number: 6, name: "June"}, 
+		{number: 7, name: "July"}, 
+		{number: 8, name: "August"}, 
+		{number: 9, name: "September"}, 
+		{number: 10, name: "October"}, 
+		{number: 11, name: "November"}, 
+		{number: 12, name: "December"}
 	];
 }
 
